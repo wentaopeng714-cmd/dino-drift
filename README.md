@@ -1,8 +1,8 @@
 # Dino Drift
 
-Dino Drift (小恐龙漂移赛) is a standalone Toybox Arcade game with brighter rounded 3D toy art, a redesigned character, English UI, mobile controls and 15 evolving stages. Version 1.0.0.
+Dino Drift (小恐龙漂移赛) is a standalone Toybox Arcade game with brighter rounded 3D toy art, a redesigned character, English UI, mobile controls and 15 evolving stages. Version 1.0.1.
 
-**[Play online](https://wentaopeng714-cmd.github.io/dino-drift/) · [Download the complete ZIP](https://github.com/wentaopeng714-cmd/dino-drift/releases/download/v1.0.0/dino-drift-v1.0.0.zip)**
+**[Play online](https://wentaopeng714-cmd.github.io/dino-drift/) · [Download the complete ZIP](https://github.com/wentaopeng714-cmd/dino-drift/releases/download/v1.0.1/dino-drift-v1.0.1.zip)**
 
 ![Game preview](previews/dino-drift-play.png)
 
